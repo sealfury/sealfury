@@ -1,5 +1,7 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
+![GitHub Stats:](https://github-readme-stats.vercel.app/api?username=sealfury&show_icons=true&theme=bear&line_height=14&bg_color=00000000&hide=issues)
+![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=sealfury&layout=compact&theme=kacho_ga&langs_count=6&line_height=16&bg_color=00000000)
 <!--
 **sealfury/sealfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
